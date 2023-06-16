@@ -4,39 +4,39 @@ This repository contains information about Tony Stark's education qualifications
 
 ## Education Fields 
 
-### Aerospace Engineering
+### Aerospace Engineering [Link to RoadMap File](/Roadmap%20for%20Aerospace%20Engineering.md)
 - Airframe Design
 - Aerodynamics (subsonic to supersonic)
 - Guidance, Navigation, and Controls
 - Propulsion System Design
-[Link to RoadMap File](/Roadmap%20for%20Aerospace%20Engineering.md)
 
-### Nuclear Engineering 
+
+### Nuclear Engineering [Link to RoadMap File](/Roadmap%20for%20Nuclear%20Engineering.md)
 - Plasma Physics
 - Nuclear Physics
 - Interaction of Radiation with Matter
-[Link to RoadMap File](/Roadmap%20for%20Nuclear%20Engineering.md)
 
-### Mechanical Engineering 
+
+### Mechanical Engineering [Link to RoadMap File](/Roadmap%20for%20Mechanical%20Engineering.md)
 - Mechanism Design
 - Cooling/Thermal Systems Design
 - Metallurgy
 - Manufacturing Systems
-[Link to RoadMap File](/Roadmap%20for%20Mechanical%20Engineering.md)
 
-### Electrical Engineering 
+
+### Electrical Engineering [Link to RoadMap File](/Roadmap%20for%20Electrical%20Engineering.md)
 - Power Extraction System Design
 - Plasma Control System Design
 - Embedded Systems
 - Signal Processing
 - Power System Design
 - Projection System Design
-[Link to RoadMap File](/Roadmap%20for%20Electrical%20Engineering.md)
 
-### Computer Science 
+
+### Computer Science [Link to RoadMap File](/Roadmap%20for%20Computer%20Science.md)
 - Artificial Intelligence Design
 - User Interface Design
-[Link to RoadMap File](/Roadmap%20for%20Computer%20Science.md)
+
 
 ## Roadmap
 
