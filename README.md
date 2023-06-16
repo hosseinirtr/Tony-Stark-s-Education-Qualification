@@ -67,7 +67,7 @@ This repository contains information about Tony Stark's education qualifications
 
 ### Computer Science 
 - [ ] Artificial Intelligence Design
-- [ ] User Interface Design
+- [x] User Interface Design
 
 You can mark the items as done by placing an X inside the brackets.
 
